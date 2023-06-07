@@ -8,6 +8,8 @@ public class TestMain {
 
         System.out.println("在hot-fix1分支中增加的一行代码");
 
+        System.out.println("在master分支中增加一行代码");
+
     }
 
 }
