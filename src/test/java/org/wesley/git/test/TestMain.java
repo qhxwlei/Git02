@@ -6,6 +6,8 @@ public class TestMain {
 
         System.out.println("Hello,Git!");
 
+        System.out.println("在hot-fix1分支中增加的一行代码");
+
     }
 
 }
